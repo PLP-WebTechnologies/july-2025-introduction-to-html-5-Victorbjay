@@ -1,4 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jecSxI3G)
+
 # 📘 Assignment: HTML5 + Accessibility & SEO Basics
 
 ## Overview
@@ -21,15 +22,14 @@ For SEO, emphasize the use of heading tags in the correct order, provide descrip
 
 A single HTML file named `index.html`. It should include:
 
-* A semantic structure using appropriate HTML5 elements.
-* Clear headings in a logical hierarchy.
-* Accessibility enhancements using proper tags and attributes.
-* SEO-friendly metadata and content.
+- A semantic structure using appropriate HTML5 elements.
+- Clear headings in a logical hierarchy.
+- Accessibility enhancements using proper tags and attributes.
+- SEO-friendly metadata and content.
 
 ## Tips
 
-* Use HTML5 semantic tags appropriately.
-* Organize content with accessibility in mind.
-* Apply basic on-page SEO techniques.
-* Follow clean, readable HTML code structure.
-
+- Use HTML5 semantic tags appropriately.
+- Organize content with accessibility in mind.
+- Apply basic on-page SEO techniques.
+- Follow clean, readable HTML code structure.
